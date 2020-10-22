@@ -1,0 +1,18 @@
+github.com/typicode/json-server
+cmd: npm i -g json-server
+in app cmd: json-server db.json (also for server restart)
+json-server will create a database 
+
+Resources
+  http://localhost:3000/posts
+  http://localhost:3000/comments
+  http://localhost:3000/profile
+
+  Home
+  http://localhost:3000
+
+s + ENTER reuslts in snapshot of a json.server
+
+in db.json in VSC:
+
+create json-server db.json --port 3001

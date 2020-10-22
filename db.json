@@ -1,0 +1,29 @@
+{
+  "inputs": [
+    { "id": 1, "todo": "Learn RxJS" },
+    { "id": 2, "todo": "Start learning testing." },
+    { "id": 3, "todo": "Finish todo list app." },
+    { "id": 4, "todo": "Finish tutorial for shopping cart." },
+    { "id": 5, "todo": "rutracker.org => Lynda ( Web design " },
+    { "id": 6, "todo": "Angular Material ( Full App )" },
+    { "id": 7, "todo": "Angular 9 Fundamentals" },
+    { "id": 8, "todo": "Flex course" }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
